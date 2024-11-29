@@ -1,0 +1,1 @@
+<?php header("location:admin/tableau_bord.php") ?>
